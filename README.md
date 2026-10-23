@@ -88,9 +88,8 @@ int main()
 # INPUT
  # a = 10 + 20
 # OUTPUT
-<img width="1039" height="479" alt="image" src="https://github.com/user-attachments/assets/f2961878-e731-4ca6-8992-7b658c698b33" />
+<img width="1873" height="840" alt="image" src="https://github.com/user-attachments/assets/e7deeef0-620e-42a2-9bcb-da937adafc1e" />
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d3b532e2-37c0-4d78-8803-e4b0ad7b33a8" />
 
 
 # RESULT
